@@ -7,11 +7,13 @@ com motor, redutor e eixo de saída , funções:
 
 # Installation
 
-pip install motor_transmissao
+pip install -i https://test.pypi.org/simple/ motor-transmissao==0.0.1
 
 # Usage
 
 from motor_transmissao import motor
+rd = motor.Roda(0.076,40)
+print(rd.velocidade_tangencial())
 
 # Author
 Wilian Oliveira de Jesus
