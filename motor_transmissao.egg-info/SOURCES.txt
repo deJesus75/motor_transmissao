@@ -1,0 +1,8 @@
+README.md
+setup.py
+motor_transmissao/__init__.py
+motor_transmissao/motor.py
+motor_transmissao.egg-info/PKG-INFO
+motor_transmissao.egg-info/SOURCES.txt
+motor_transmissao.egg-info/dependency_links.txt
+motor_transmissao.egg-info/top_level.txt

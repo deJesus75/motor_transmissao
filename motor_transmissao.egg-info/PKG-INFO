@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: motor_transmissao
+Version: 0.0.1
+Summary: Modulo para simular um sistema de transmissão mecânica
+Home-page: 
+Author: Wilian Oliveira de Jesus
+Author-email: wilian.galter@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+#motor_transmissao
+O pacote motor_transmissao Ã© utilizado para simular um sistema de transmissÃ£o
+com motor, redutor e eixo de saÃ­da , funÃ§Ãµes:
+    - calcula_torque[Kgf.m]
+    - velocidade_tangencial[m/min]
+    - forca_puxada [forÃ§a tangencial ao eixo de saida]
+
+#Installation
+
+pip install motor_transmissao
+
+#Usage
+
+from motor_transmissao import motor
+
+#Author
+Wilian Oliveira de Jesus
+
+#License
